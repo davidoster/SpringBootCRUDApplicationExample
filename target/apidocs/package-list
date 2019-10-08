@@ -1,0 +1,7 @@
+com.websystique.springboot
+com.websystique.springboot.configuration
+com.websystique.springboot.controller
+com.websystique.springboot.model
+com.websystique.springboot.repositories
+com.websystique.springboot.service
+com.websystique.springboot.util

@@ -1,0 +1,9 @@
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/repositories/UserRepository.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/SpringBootCRUDApp.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserServiceImpl.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserService.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/model/User.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/configuration/JpaConfiguration.java
+/home/david/Downloads/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/AppController.java

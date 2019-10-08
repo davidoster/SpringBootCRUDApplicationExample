@@ -1,0 +1,9 @@
+com/websystique/springboot/service/UserServiceImpl.class
+com/websystique/springboot/service/UserService.class
+com/websystique/springboot/configuration/JpaConfiguration.class
+com/websystique/springboot/controller/AppController.class
+com/websystique/springboot/controller/RestApiController.class
+com/websystique/springboot/model/User.class
+com/websystique/springboot/util/CustomErrorType.class
+com/websystique/springboot/SpringBootCRUDApp.class
+com/websystique/springboot/repositories/UserRepository.class
